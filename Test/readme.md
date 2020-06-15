@@ -1,23 +1,18 @@
-Executive summary
+###### Executive summary 
 
 
-The purpose of this lab was to gain a understanding of soem of the basic features of GitHub and learn about the file structure of software. 
+*The purpose of this lab was to gain a understanding of some of the basic features of GitHub and learn about the file structure of software. 
 
-Information System Components
+###### Information System Components
 
+*There are many different parts of the ATM that we can identify and categorize. The hardware of the ATM are the physical components of the device from the card used to run the software. The software is made up of the code and runs the various functions of the device. While it does this it collects data that is sends back to a main server who processes this data and turns it into information that can be used by the company. 
 
-Take the example of ATM that we use everyday. Explain or identify what is the hardware, software, data, people and process in the system you identified with respect to the ATM.
+###### Github
 
-Github
+.
+*GitHub is considered Cloud computing since it is a cloud-based source for users code projects. Since these files are not hosted on the user’s computer it is considered cloud computing. In my personal life I recently used the new Google Stadia service to play video games. 
 
-
-In GitHub you are experiencing a "Client-Server" architecture. Explain what is meant by "client-server" architecture and how GitHub fits this model.
-
-
-
-Why is GitHub considered "Cloud Computing?" What other "cloud computing" environments do you use?
-
-Conclusion
+###### Conclusion
 
 
-In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components.
+*I believe that learning more about GitHub would be a great help in the future. Learning more about how each of the systems interact was interesting and always fun to learn about. Overall I am pleased with the things that I learned in this lab. 
