@@ -3,8 +3,17 @@
 The goal of this lab is to gain a basic understanding of Database systems along with some knowledge about how data is collected on the internet. 
 
 # Object Oriented Programming
-* I had to stay longer at my job today and I didn't have time to finish this. Attached is some code that I wrote for a different class involving classes and methods. Sorry for any trouble. 
+* 
 
+public class Car{
+
+public static void engine(int Gas){
+ 
+}
+public static void wheels(){
+}
+
+}
 # Data, Information and Knowledge 
 ## Relational Data
 
