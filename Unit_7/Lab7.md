@@ -1,60 +1,44 @@
 
 # Executive Summary
-Talk about what the goal of this lab is !
+The goal of this lab is to gain a basic understanding of Database systems along with some knowledge about how data is collected on the internet. 
 
 # Object Oriented Programming
-* Create a class (using paper and pencil or using the Microsoft whiteboard app) for the following:
-a) Phone
-b) House
-c) Employee
-* Identify the features (In the video for the Car class, we identified the properties as Year, Make Model etc)
-* Identify the actions (In the video a) for the Car class, we identified the methods as Drive, Park, Start etc)
-* Then upload a screenshot of your diagram to github for each of the above classes.
+* I had to stay longer at my job today and I didn't have time to finish this. Attached is some code that I wrote for a different class involving classes and methods. Sorry for any trouble. 
 
 # Data, Information and Knowledge 
 ## Relational Data
 
-* What is the difference between data, information and knowledge? 
+* The difference between Data, Information, and knowledge is that data is the raw facts and numbers while information is processed data. Knowledge is then the processed information that is used to form conclusions. 
 
-* If you were creating a database for a small company and two tables you identify are customers and orders explain the following:
-(be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
-a) What would be the primary key in the customers and orders table? 
+* For this database the primary key should be a different called Customer_ID. Then there should be a primary key it the orders table called. 
+The foreign key in the orders table would be the customer_ID and that would relate the two tables. 
+It is important to define that data type for a field since choosing the incorrect data type can lead to problems when you are looking to manipulate the data further down the line. 
 
-b) How would the customers and orders table be related? 
-
-c) What would be the foreign key in the orders table? 
- 
-d) The orders table would likely have a date field.  Explain why it is important to properly define the data type of a field. 
  
 ## Big Data
 
-* Briefly describe the four "Vs" of big data 
-* What types of technology have driven the increased need for big data? 
+* The four V’s of big data are Volume or being able to store the data, variety (being able to handle different data types) , Velocity (being able to process the data and use it) , and Veracity ( the data is accurate and free of any errors).
+*  The ability to store large amounts of data relatively cheaply along with tools such as SQL and other database design tools allows companies to process this data have forced companies to use this technology, or they would be left behind the other companies that were using this information.   
  
 # Structured Query Language (SQL)
-* Explain RDBMS and how it relates to SQL and the purpose of SQL 
-* Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them
-a) which is the primary key?
-b) which is the foreign key?
-* Using W3Schools, try out a 
-a) select statement 
-a) where clause 
-and upload screenshots of the results.
-* Explain how SQL injections are a security threat and what can be done to reduce the issue. 
+* Relational database modeling software helps create the database and is the basis for SQL. SQL is the language used to interact with the database. 
+* In the module SQL the two tables I investigated were Employees and Order. Employee’s has a primary key (EmployeeID). EmployeeID is also a foreign key in the Orders table since Employee and orders have a one to many relationship. 
+* Screenshots uploaded 
+* SQL injections on websites can lead to stolen data and the best way to prevent this is to ensure that you are using correct SQL Parameters to ensure that only the correct user are able to acess the  database. 
   
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
-* Explain the purpose of a "code of ethics" and why the ACM created a code for the computing discipline.
-* Explain the difference between a code of ethics and AUP (acceptable use policies.) 
-* Pick a site of your choice and read the AUP.  Select a policy of interest and report your findings (include a link to the site in your report.) 
+* The purpose of a code of ethics is to ensure that people are able to reflect on the choices they make. The ACM decided to create one due to the new questions that the field will face that will be unique to their field. 
+* A code of ethics helps define how the user should handle things that they create and interact with. A AUP handles things that users make on a network or website.  
+* The AUP for amazon payments is very interesting ( https://pay.amazon.com/help/6023 ). It is really cool to see all of the ways that they thought people might use their payment network.
 
 ## Intellectual Property
-* From the chapter follow the link to the WIPO.  What is the purpose and importance of the WIPO? 
-* Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created. 
-* If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property. 
+* The purpose of teh WIPO is to protect the copyrights and IP of people and companies around the world.  
+* A copyright is important because it links the created item to you as a person/company. Without it anyone could steal your work and use it for profit, the only way to settle that would be through a long court process. You get a copyright by applying to the US copyright office with the required documents. 
+
  
 ## Information Collection
-* Explain how COPPA, FERPA and HIPPA restrict the collection of information on the Internet. 
+* These programs do not allow the collection of data from minors and limit the amount of data that can be obtained with cookies. Finally, they limit the amount of data that comapies are allowed to store. 
 
 # Conclusion
-Include what you have learnt from this lab
+I thought that this review of database system was very fun. I really enjoyed looking back at this. 
